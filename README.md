@@ -147,6 +147,6 @@ if __name__ == "__main__":
 ## Contribution   
 Contributions are welcome! Please open an issue or submit a pull request on [GitHub](https://github.com/ParalexLabs/Vectrs-beta).   
 ## License   
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/ParalexLabs/Vectrs-beta/blob/master/LICENSE) file for more details.   
+This project is licensed under the Apache License. See the [LICENSE](https://github.com/ParalexLabs/Vectrs-beta/blob/master/LICENSE) file for more details.   
 ## Support   
 For support or inquiries, please contact sakib@paralex.tech  
