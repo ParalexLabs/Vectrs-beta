@@ -145,8 +145,8 @@ if __name__ == "__main__":
 - `get\_log\_hash(db\_id, vector\_id)`: Retrieves the log hash of a vector by its ID.   
    
 ## Contribution   
-Contributions are welcome! Please open an issue or submit a pull request on [GitHub](https://github.com/yourusername/vectrs).   
+Contributions are welcome! Please open an issue or submit a pull request on [GitHub](https://github.com/ParalexLabs/Vectrs-beta).   
 ## License   
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/yourusername/vectrs/blob/main/LICENSE) file for more details.   
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/ParalexLabs/Vectrs-beta/blob/master/LICENSE) file for more details.   
 ## Support   
-For support or inquiries, please contact your.email@example.com.   
+For support or inquiries, please contact sakib@paralex.tech  
