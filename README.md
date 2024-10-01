@@ -1,5 +1,4 @@
-# Vectrs - Decentralized & Distributed Vector Database   [![Downloads](https://static.pepy.tech/badge/vectrs)](https://pepy.tech/project/vectrs)
-
+# Vectrs - Decentralized & Distributed Vector Database  
 ## Overview   
 **Vectrs** is a decentralized & distributed vector database designed for efficient storage and retrieval of vector embeddings. By utilizing commodity hardware and scaling horizontally, Vectrs offers a cost-effective solution compared to traditional centralized databases. It leverages a distributed hash table (DHT) for decentralized data management, ensuring scalability and fault tolerance.   
 ## Features   
